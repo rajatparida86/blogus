@@ -1,0 +1,2 @@
+# blogus
+For blogs
